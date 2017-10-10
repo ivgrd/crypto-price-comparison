@@ -1,0 +1,20 @@
+{
+  "name": "crypto-price-comparison",
+  "version": "1.0.0",
+  "description": "Chrome Plugin for crypto currencies prices comparison",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technocracy-world/crypto-price-comparison.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technocracy-world/crypto-price-comparison/issues"
+  },
+  "homepage": "https://github.com/technocracy-world/crypto-price-comparison#readme"
+}

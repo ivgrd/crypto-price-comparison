@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Crypto Price Comparison Plugin",
+    "description": "This extension will show the current trading prices for crypto currencies",
+    "version": "1.0.0",
+
+    "browser_action": {
+        "default_icon": "images/icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
